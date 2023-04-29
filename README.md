@@ -7,3 +7,4 @@ these scripts I created in my free time some of them are useful and some of them
 3. wios.sh: wifi DOS tool using aircrsck suit (processing)
 4. image.py: this python code can be used to resize(increase/decrease) images.
 5. scan.py: a basic level port scanner using python
+6. script.py: this python code can be used to create/delete/modify any file
